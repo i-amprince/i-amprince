@@ -51,15 +51,6 @@
 
 ---
 
-### 🏆 Achievements
-
-- 🥇 **Rank 3** in recent CodeChef contest  
-- 🎯 **Rank 37** in recent LeetCode contest  
-- 👨‍💻 Solved **350+ LeetCode problems**  
-- 🚀 Built **CadenceCode**, **Portfolio 2.0**, **Chitzy Chat App**, and more
-
----
-
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-goyal-9123372b1/)
